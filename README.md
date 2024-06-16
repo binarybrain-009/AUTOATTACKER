@@ -27,7 +27,7 @@ AUTOATTACKER IMPLEMENTATION
   <a href="https://github.com/GreyDGL/PentestGPT">
   </a>
 
-<h3 align="center">PentestGPT</h3>
+<h3 align="center">AUTOATTACKER</h3>
 
   <p align="center">
     A GPT-empowered penetration testing tool. 
