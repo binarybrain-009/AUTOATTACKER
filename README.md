@@ -175,28 +175,24 @@ conda activate pentestgpt_env
 Run the Application:
 
 ```bash
-pentestgpt
+pentestgpt-connection
 ```
 
 If the command is not found, ensure that the package scripts are installed correctly. You might need to adjust your `PATH` or run the application using Python:
 
-```bash
-python -m pentestgpt.main
-```
 
 ### Test Specific Commands:
 
 ```bash
 pentestgpt-connection
-pentestgpt-cookie
 ```
 
 ## Usage
 
-After successful installation, you can start using PentestGPT by running:
+After successful installation, you can start using AutoAttacker by running:
 
 ```bash
-pentestgpt
+python autoattacker.py
 ```
 
 Follow the on-screen instructions to interact with the tool.
@@ -273,4 +269,3 @@ Follow the on-screen instructions to interact with the tool.
 - There are two auto attacker pipelines one is using GPT-4 and the other using ThinkGPT, autoattacker.py, and autoattacker_thinkGPT.py
 - They can be run after experience manager's working has been tested 
 ## The file logs will be stored in the pentestgpt/config/logs/ folder
-
